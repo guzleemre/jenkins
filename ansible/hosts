@@ -1,5 +1,5 @@
 [servers]
-timeapp ansible_host=192.168.84.1
+timeapp ansible_host=192.168.56.1
 [servers:vars]
 ansible_user='root'
 ansible_password='Jenkins123' 
